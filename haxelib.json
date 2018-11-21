@@ -1,0 +1,18 @@
+{
+  "name": "croppie.hx",
+  "url": "https://github.com/varadig/croppie.hx",
+  "license": "MIT",
+  "tags": [
+    "js",
+    "croppie",
+    "map"
+  ],
+  "description": "Haxe externs for Croppie javascript library",
+  "version": "0.0.1",
+  "classPath": "src/",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {}
+}
